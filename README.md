@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently completing my Bachelor's in Computer Science from Oregon State University (expected August 2021).
+
+Currently, I'm taking OSU's Operating Systems 1 class. In the fall I will be taking Algorithms and Intro to Cyber Security.
+
+I currently work in the tech industry as a Data Scientist.
+
 <!--
 **morrimeg/morrimeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
